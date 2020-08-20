@@ -1,0 +1,19 @@
+{
+  "name": "web-scrapper",
+  "version": "0.0.1",
+  "main": "app.js",
+  "author": "Ahmet Celikezer <ahmet@celikezer.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@atolye15/eslint-config-base-typescript": "^1.1.2",
+    "@types/chalk": "^2.2.0",
+    "@types/node": "^14.6.0",
+    "@types/prettier": "^2.0.2",
+    "@types/yargs": "^15.0.5"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "prettier": "^2.0.5",
+    "yargs": "^15.4.1"
+  }
+}
